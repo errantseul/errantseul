@@ -29,10 +29,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="banner.png" alt="banner" width="800"/>
-
 <br/>
 
 ### github status
@@ -44,17 +40,3 @@
 
 </div>
 
-<br/>
-
-### tech stack
-
-<div align="left">
-
-![Laravel](https://img.shields.io/badge/Laravel-5C1A2E?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5C1A2E?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5C1A2E?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
