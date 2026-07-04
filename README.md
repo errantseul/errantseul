@@ -20,8 +20,8 @@
 
 <div align="left">
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5C1A2E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
