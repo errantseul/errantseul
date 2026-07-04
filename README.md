@@ -23,11 +23,15 @@
 
 ### Tech stack
 
- <div align="left"> 
+<div align="left">
 
-
-
- </div>ide_border=true&bg_color=00000000&title_color=5C1A2E&text_color=0a0a0a" alt="top langs" height="165"/>
+![Laravel](https://img.shields.io/badge/Laravel-5C1A2E?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5C1A2E?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5C1A2E?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
+<br/>
