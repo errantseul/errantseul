@@ -20,8 +20,9 @@
 
 <div align="left">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-5C1A2E?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Website Development](https://img.shields.io/badge/Website%20Development-5C1A2E?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -45,13 +46,56 @@
 
 ### tech stack
 
+**frontend core**
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-5C1A2E?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+</div>
+
+**frontend framework**
+
+<div align="left">
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5C1A2E?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-000000?style=for-the-badge&logo=laravel&logoColor=white)
+
+</div>
+
+**backend languages**
+
+<div align="left">
+
+![PHP](https://img.shields.io/badge/PHP-5C1A2E?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5C1A2E?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+**backend framework**
+
 <div align="left">
 
 ![Laravel](https://img.shields.io/badge/Laravel-5C1A2E?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5C1A2E?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5C1A2E?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+**data stores**
+
+<div align="left">
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+**mobile**
+
+<div align="left">
+
+![Android](https://img.shields.io/badge/Android-5C1A2E?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
