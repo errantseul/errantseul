@@ -101,13 +101,16 @@
 </div>
 
 **helper tools**
- 
+
 <div align="left">
+
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-5C1A2E?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000000?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-5C1A2E?style=for-the-badge&logo=xampp&logoColor=white)
+
 </div>
+
 
 ### connect with me
 
@@ -115,8 +118,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/errantseul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5C1A2E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khafifah-dwi-aliani-2421602b4/)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/errantseul)
 [![Email](https://img.shields.io/badge/Email-5C1A2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khafifahalia@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/errantseul)
 
 </div>
 
