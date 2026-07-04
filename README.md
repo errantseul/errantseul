@@ -8,7 +8,7 @@
 
 <br/>
 
-### Quote of the day!
+### quote of the day!
 
 ```
 "wherever life plants you, bloom with grace"
@@ -16,12 +16,30 @@
 
 <br/>
 
-### Github status
+### currently learning
 
- <div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=errantseul&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=5C1A2E&icon_color=5C1A2E&text_color=0a0a0a" alt="stats" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=errantseul&layout=compact&hide_border=true&bg_color=00000000&title_color=5C1A2E&text_color=0a0a0a" alt="top langs" height="165"/> </div> <br/> 
+<div align="left">
 
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-5C1A2E?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fullstack](https://img.shields.io/badge/Fullstack%20Development-5C1A2E?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Tech stack
+</div>
+
+<br/>
+
+### github status
+
+<div align="center">
+
+<img src="https://myreadme.vercel.app/api/embed/errantseul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="github status"/>
+
+</div>
+
+<br/>
+
+### tech stack
 
 <div align="left">
 
@@ -33,5 +51,3 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
-
-<br/>
