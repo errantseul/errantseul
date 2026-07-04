@@ -33,7 +33,13 @@
 
 <div align="center">
 
-<img src="https://myreadme.vercel.app/api/embed/errantseul?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="github status"/>
+<img src="https://github-stats-extended.vercel.app/api?username=errantseul&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=5C1A2E&icon_color=5C1A2E&text_color=0a0a0a" alt="stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=errantseul&layout=compact&hide_border=true&bg_color=00000000&title_color=5C1A2E&text_color=0a0a0a" alt="top langs" height="165"/>
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/errantseul?style=for-the-badge&color=000000&label=FOLLOWERS&labelColor=5C1A2E)
+![Stars](https://img.shields.io/github/stars/errantseul?style=for-the-badge&color=5C1A2E&label=STARS&labelColor=000000)
 
 </div>
 
