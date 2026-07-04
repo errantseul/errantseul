@@ -111,7 +111,9 @@
 ![Mailtrap](https://img.shields.io/badge/Mailtrap-000000?style=for-the-badge&logo=mailtrap&logoColor=white)
 
 </div>
+
 ---
+
 ### connect with me
 
 <div align="left">
