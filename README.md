@@ -21,9 +21,7 @@
 <div align="left">
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-5C1A2E?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Fullstack](https://img.shields.io/badge/Fullstack%20Development-5C1A2E?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5C1A2E?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
 
