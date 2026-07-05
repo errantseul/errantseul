@@ -21,6 +21,8 @@
 <div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-5C1A2E?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
 ![Website Development](https://img.shields.io/badge/Website%20Development-5C1A2E?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 
