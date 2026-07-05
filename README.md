@@ -72,6 +72,7 @@
 ![PHP](https://img.shields.io/badge/PHP-5C1A2E?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5C1A2E?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
