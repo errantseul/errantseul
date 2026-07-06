@@ -47,6 +47,30 @@ visual experiences. Currently focused on small scale and products character driv
 
 ---
 
+### favorite project
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+**[YourLetter](https://github.com/errantseul/YourLetter)**
+<br/>
+write a message, pick a quote and a mood, and share it as a postcard link. This App concept reference by a manhwa called Your Letter on Webtoon.
+ 
+`JavaScript` `HTML` `CSS` `Netlify` `Neon` 
+ 
+</td>
+<td width="50%" valign="top">
+**[music-player-widget-app](https://github.com/errantseul/music-player-widget-app)**
+<br/>
+music player widget inspired by the iPod Nano style
+ 
+`Electron` JavaScript` `CSS` `HTML`
+ 
+</td>
+</tr>
+</table>
+---
+
 ### tech stack
 
 **frontend core**
