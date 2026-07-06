@@ -64,11 +64,12 @@ write a message, pick a quote and a mood, and share it as a postcard link. This 
 <br/>
 music player widget inspired by the iPod Nano style
  
-`Electron` JavaScript` `CSS` `HTML`
+`Electron` `JavaScript` `CSS` `HTML`
  
 </td>
 </tr>
 </table>
+
 ---
 
 ### tech stack
