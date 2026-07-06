@@ -8,12 +8,14 @@
 
 ---
 
-### quote of the day!
-
+### about me
+ 
 ```
-"wherever life plants you, bloom with grace"
+I'm an UI/UX design and interactive digital product development enthusiast.
+Mostly drawn to expressive and playful visual experiences. Focused on small-
+scale, character-driven products rather than large enterprise systems.
 ```
-
+ 
 ---
 
 ### currently learning
