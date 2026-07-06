@@ -9,12 +9,12 @@
 ---
 
 ### about me
- 
+
 ```
-I'm an UI/UX design and interactive digital product development enthusiast. Mostly drawn to expressive and playful
-visual experiences. Currently focused on small scale and products character driven rather than large enterprise systems.
+I'm a UI/UX design and interactive digital product development enthusiast. Mostly drawn to expressive and playful
+visual experiences. Currently focused on small scale, character-driven products rather than large enterprise systems.
 ```
- 
+
 ---
 
 ### currently learning
@@ -46,26 +46,28 @@ visual experiences. Currently focused on small scale and products character driv
 </div>
 
 ---
- 
+
 ### favorite project
- 
+
 <table>
 <tr>
 <td width="50%" valign="top">
+
 **[YourLetter](https://github.com/errantseul/YourLetter)**
 <br/>
 Write a message, pick a quote and a mood, and share it as a postcard link. This app concept is referenced by a manhwa called *Your Letter* on Webtoon.
- 
+
 `JavaScript` `HTML` `CSS` `Netlify` `Neon`
- 
+
 </td>
 <td width="50%" valign="top">
+
 **[music-player-widget-app](https://github.com/errantseul/music-player-widget-app)**
 <br/>
 Music player widget inspired by the iPod Nano style.
- 
+
 `Electron` `JavaScript` `CSS` `HTML`
- 
+
 </td>
 </tr>
 </table>
