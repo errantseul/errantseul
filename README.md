@@ -12,7 +12,7 @@
 
 ```
 I'm a UI/UX design and interactive digital product development enthusiast. Mostly drawn to expressive and playful
-visual experiences. Currently focused on small scale, character-driven products rather than large enterprise systems.
+visual experiences. Currently focused on small scale and character driven products rather than large enterprise systems.
 ```
 
 ---
