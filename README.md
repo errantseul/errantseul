@@ -57,7 +57,7 @@ visual experiences. Currently focused on small scale and character driven produc
 <br/>
 Write a message, pick a quote and a mood, and share it as a postcard link. This app concept is referenced by a manhwa called *Your Letter* on Webtoon.
 
-`JavaScript` `HTML` `CSS` `Netlify` `Neon`
+`JavaScript` `HTML` `CSS` `Vite` `Netlify` `Neon`
 
 </td>
 <td width="50%" valign="top">
